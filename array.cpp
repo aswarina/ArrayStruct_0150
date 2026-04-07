@@ -29,6 +29,8 @@ int main()
     cout << "data kelima = " << datamu[4] << endl;
     cout << endl;
 
+    cout << "Input Array Menggunakan For" << endl;
+
 
 
   
