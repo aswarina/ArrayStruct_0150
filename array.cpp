@@ -30,6 +30,11 @@ int main()
     cout << endl;
 
     cout << "Input Array Menggunakan For" << endl;
+     for (int i = 0; i <= 4; i++)
+    {
+        cout << "Isikan data ke-" << (i + 1) << " : ";
+        cin >> datamu[i];
+    }
 
 
 
